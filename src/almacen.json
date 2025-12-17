@@ -1,0 +1,16 @@
+{
+  "almacen": [
+    {
+      "id": "AAA-1111",
+      "name": "Producto de Prueba (Mod)",
+      "price": 23.46,
+      "units": 16
+    },
+    {
+      "id": "AAA-1113",
+      "name": "qwdwqd",
+      "price": 3,
+      "units": 3
+    }
+  ]
+}
